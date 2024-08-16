@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Inter } from "next/font/google";
 import Layout from "@/components/Layout";
 import Sidebar from "@/components/Sidebar";
 import About from "@/components/About";
