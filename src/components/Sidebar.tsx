@@ -18,16 +18,16 @@ const router = useRouter()
         </div>
 
         <div className='accounts_container flex items-center  gap-3 py-2 px-3'>
-         <a className='' href="/https://www.facebook.com/muhammad.nisamu">
+         <a className='' href="https://www.facebook.com/muhammad.nisamu" target='blank'>
           <img  src="/facebook.png" alt="" />
          </a>
-         <a href="/https://www.linkedin.com/in/nizamuddeen-shahruddeen-4a2aa4251/">
+         <a href="https://www.linkedin.com/in/nizamuddeen-shahruddeen-4a2aa4251/" target='blank'>
           <img  src="/linkedin.png" alt="" />
          </a>
-         <a href="/https://x.com/NMshahr">
+         <a href="https://x.com/myminipay567200" target='blank'>
           <img  src="/twitter.png" alt="" />
          </a>
-         <a href="/https://github.com/Nizam-shahr?tab=repositories">
+         <a href="https://github.com/Nizam-shahr?tab=repositories" target='blank'>
           <img  src="/github.png" alt="" />
          </a>
         </div>
