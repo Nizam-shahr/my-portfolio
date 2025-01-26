@@ -5,7 +5,7 @@ function Resume() {
     <div className='resume-container rounded-2xl '>
         <div className='flex gap-8 items-center pl-20 pr-32 pt-6 pb-8'>
         <h1 className='text-3xl poppin font-semibold'>
-            EDUCATION & EXPERIENCE
+            RESUME
         </h1>
         <span>
             <img src="/top-line.png" alt="" />
