@@ -24,26 +24,26 @@ function Resume() {
         </div>
         <div className='flex gap-12'>
         <div className='w-56 light-purple-bgs flex flex-col p-4 rounded-xl'>
-            <h4 className=' text-xs  '>2021-2023</h4>
+            <h4 className=' text-xs  '>2021-2022</h4>
             <h2 className='text-xs  font-bold'>Web Development</h2>
-            <h3 className='text-xs '>Alhikmah University</h3>
+            <h3 className='text-xs '>Udemy Schools</h3>
         </div>
         <div className='light-purple-bg w-56 flex flex-col p-4 rounded-xl'>
-        <h4 className=' text-xs  '>2021-2023</h4>
-            <h2 className='text-xs  font-bold'>Web Development</h2>
-            <h3 className='text-xs '>Alhikmah University</h3>
+        <h4 className=' text-xs  '>2021-2025</h4>
+            <h2 className='text-xs  font-bold'>Bsc. Software Engineering</h2>
+            <h3 className='text-xs '>Alhikmah University, Ilorin</h3>
         </div>
         </div>
         <div className='flex gap-12 '>
         <div className='w-56 light-purple-bg flex flex-col p-4 rounded-xl'>
         <h4 className=' text-xs  '>2021-2023</h4>
-            <h2 className='text-xs  font-bold'>Web Development</h2>
-            <h3 className='text-xs '>Alhikmah University</h3>
+            <h2 className='text-xs  font-bold'>Web Developer</h2>
+            <h3 className='text-xs '>Mainas E-brain Digiville</h3>
         </div>
         <div className=' w-56 flex flex-col p-4 light-purple-bgs rounded-xl'>
-        <h4 className=' text-xs  '>2021-2023</h4>
-            <h2 className='text-xs  font-bold'>Web Development</h2>
-            <h3 className='text-xs '>Alhikmah University</h3>
+        <h4 className=' text-xs  '>2024</h4>
+            <h2 className='text-xs  font-bold'>Web Develpper</h2>
+            <h3 className='text-xs '>NNPC Energy Services</h3>
         </div>
         </div>
       </div>
@@ -62,7 +62,7 @@ function Resume() {
             <h3 className="skill  text-xs ">Mongo DB</h3>
             <h3 className="skill  text-xs ">SQL</h3>
             <h3 className="skill  text-xs ">Angular</h3>
-            <h3 className="skill  text-xs ">Android</h3>
+            <h3 className="skill  text-xs ">Typesecript</h3>
             <h3 className="skill  text-xs ">Git</h3>
             </div>
         </div>
@@ -74,7 +74,7 @@ function Resume() {
             <h3 className="skill  text-xs ">Impeccable Communication</h3>
             <h3 className="skill  text-xs ">Flexibility</h3>
             <h3 className="skill  text-xs ">Research</h3>
-            <h3 className="skill  text-xs ">Writing</h3>
+            <h3 className="skill  text-xs ">Problem Solving</h3>
             </div>
         </div>
     </div>
